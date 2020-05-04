@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>sas-ccenter-wsw</artifactId>
-	<version>${ccenter.ws.version}</version>
+	<version>${revision}</version>
 	<packaging>war</packaging>
 	<name>sedemacdmxccenter_wsw</name>
 	<description>Sedema modulo Servicio Call Center</description>

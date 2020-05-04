@@ -1,6 +1,6 @@
 
 //Nombre de la aplicación para control con Angular
-var localizacionGps = "localizacionGps";
+var localizacionGps = "wsIvr";
 
 angular.module(localizacionGps,
 	[

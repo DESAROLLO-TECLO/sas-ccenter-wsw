@@ -1,4 +1,4 @@
-package mx.com.teclo.sas.hh.rest.servicios;
+package mx.com.teclo.sas.ccenter.ws.rest.servicios;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

@@ -2,7 +2,7 @@ package mx.com.teclo.sas.ccenter.ws.util.enums;
 
 public enum Mensajes {
 
-	MSJ_SUCCESS("Resultado encontrado"), MSJ_NOT_DATA_FOUND("No se encontraron resultados"), MSJ_ERROR_SERVIDOR("Error en el servidor"), MSJ_BAD_REQUEST("El parametro requerido es nulo");
+	MSJ_SUCCESS("RESULTADO ENCONTRADO"), MSJ_NOT_DATA_FOUND("NO SE ENCONTRARON RESULTADOS"), MSJ_ERROR_SERVIDOR("ERROR EN EL SERVIDOR"), MSJ_BAD_REQUEST("EL PARAMETRO ES REQUERIDO");
 	
 	private String mensaje;
 

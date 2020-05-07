@@ -6,7 +6,7 @@
 	version="1.0">
 
 	<reload-interval value="3"/>
-	<context-root uri="sedemacdmxccenter_v1.0.0r1_pro_wsw" />
+	<context-root uri="sedemaivr" />
 	<enable-directory-browsing value="false"/>
 	<enable-file-serving value="true"/>
 	<enable-reloading value="true"/>
